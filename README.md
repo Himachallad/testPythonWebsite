@@ -1,6 +1,3 @@
 # portfolio
 
-Basic information about me:
-    - Projects
-    - Achievements
-    - Hobbies
+Simple python website deployed in heroku: https://test60000.herokuapp.com/
