@@ -1,3 +1,4 @@
-# portfolio
+# test deploy heroku
 
-Simple python website deployed in heroku: https://test60000.herokuapp.com/
+
+Static website using flask, python deployed on heroku: https://test60000.herokuapp.com/
